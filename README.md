@@ -1,9 +1,7 @@
 <img src="MU.jpg" width="250">
+<img src="FElogo.jpeg" width="250">
+<img src="deplogo.jpg" width="250">
 
-
-![alt text](MU.jpg "MU logo Text 1")
-![alt text](FElogo.jpeg "Facualty logo Text 1")
-![alt text](deplogo.jpg "dep logo Text 1")
 
 
 # Charity System Analysis <br />
