@@ -1,6 +1,6 @@
-<img src="MU.jpg" width="150">
-<img src="FElogo.jpeg" width="150">
-<img src="deplogo.jpg" width="150">
+<img src="MU.jpg" width="50">
+<img src="FElogo.jpeg" width="50">
+<img src="deplogo.jpg" width="50">
 
 
 
