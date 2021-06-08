@@ -7,7 +7,7 @@
 # Charity System Analysis <br />
 
 
-![alt text](Charity_sys_class_digram.svg = 250x250 "Class Digram Text 1")
+![alt text](Charity_sys_class_digram.svg  "Class Digram Text 1" | width=50)
 
 <br /><br /><br />
 
