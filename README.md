@@ -12,6 +12,17 @@ We all have volunteered someday. As volunteers, we saw that the regular systemat
 As a Software Engineering student, we tried to analyze charities' management systems. In the future, we plan to make a fully automated system.
 We Know that a charity is a gigantic system that has a lot of departments, operations, and people. All these components interact with each other in a very complicated way. So, we made a lot of constraints and tried to minimize the system to its core working blocks as this is V1.0 of this analysis. We also plan to extend this analysis when our experience gets more powerful.
 
+<br /><br /><br />
+
+## Our system building blocks:
+
+* Donors : people who donate money or any other thing. they may set a date for a monthly donation
+* Volunteers : who works under the auspices of management.
+* Management : paid or not. they are almost in charge of all things.
+* Cases : any situation that charity can help with. It can by a mankind, mosuqe or a whole village.
+* Logositcs : almost anything management do
+
+
 
 ![alt text](Charity_sys_class_digram.svg  "Class Digram Text 1" )
 
