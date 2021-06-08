@@ -1,4 +1,4 @@
-<img src="MU.jpg" width="250">
+<img src="MU.jpg" style="float: left;" width="250">
 <img src="FElogo.jpeg" width="250">
 <img src="deplogo.jpg" width="250">
 
