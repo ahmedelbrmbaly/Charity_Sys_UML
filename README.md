@@ -8,7 +8,8 @@ Assist. Lec. Shimaa Hagras<br />
 <br /><br /><br />
 # Charity System Analysis <br />
 
-<br />
+<br /><br />
+
 ## Intro: <br />
 We all have volunteered someday. As volunteers, we saw that the regular systematic management system of charities devours a lot of time and effort. As a Software Engineering student, we tried to analyze charities' management systems. In the future, we plan to make a fully automated system. We Know that a charity is a gigantic system that has a lot of departments, operations, and people. All these components interact with each other in a very complicated way. So, we made a lot of constraints and tried to minimize the system to its core working blocks as this is V1.0 of this analysis. We also plan to extend this analysis when our experience gets more powerful.
 
@@ -18,7 +19,7 @@ We all have volunteered someday. As volunteers, we saw that the regular systemat
 A system that handles the operations inside a charity, going from the management head to the employees, and handling the donations and volunteering process to benefit the cases it observes and/or explores. It handles (the finances between the management and employees), (logistics requesting funds), and (logistics exploring to find new rightful cases to help). It also handles the status of the cases that have already been helped to make sure that these cases get the attention they need.
 <br /><br />
 
-##User documentation:
+## User documentation:
 I. End-users:<br />
 a. Volunteers<br />
 b. Donors<br />
@@ -27,7 +28,7 @@ II. Admin users:<br />
 a. Management<br />
 <br /><br />
 
-##Our system building blocks:<br />
+## Our system building blocks:<br />
 • Donors: people who donate money or any other thing. they may set a date
 for a monthly donation.<br />
 • Volunteers: who works under the auspices of management.<br />
@@ -41,11 +42,12 @@ or a whole village.<br />
 AS we previously mentioned, we have made a lot of constrains,
 ignored a lot of department and operations, and merged a lot of roles and
 departments. In this section we will give examples of this constrains.<br />
+<br />
 Ignored Departments: <br />
 • HR <br />
 • PR <br />
 • Media <br />
-• Partnerships<br />
+• Partnerships<br /><br />
 Some of our Constrains: <br />
 • Management does exploration. <br />
 • Management may have no salary. <br />
@@ -53,22 +55,22 @@ Some of our Constrains: <br />
 <br /><br />
 ## Process of finding cases and helping them:<br />
 • Firstly, the management needs to find a case that matches the criteria of
-cases that would require help.<br />
+cases that would require help.<br /><br />
 • Secondly, the management sends back the information of the to handle
 the scouting process to see if the case is eligible for the charities' efforts of
-helping.<br />
+helping.<br /><br />
 • Thirdly, If the case is eligible (under the standard criteria), the
 management department approves the process of help, hence, requesting
 the material it would need to start helping (money, food, clothes, etc...)
-from the finances department.<br />
+from the finances department.<br /><br />
 • Fourthly, the management starts gathering supplies that were requested
 in the logistics operations, then starts to assess the man-power it needs to
 start gathering volunteers that are willing to help from the department
-assigned to that specific case.<br />
+assigned to that specific case.<br /><br />
 • Finally, a team consists of managements (Multiple*) and volunteers are
 assigned to this case with a date and time to start the final step of the
 process, coming back with a status of the case after helping, let that be
-(NEEDS FURTHER ATTENTION, NEEDS CHECKUP EVERY (time), CLOSED).<br />
+(NEEDS FURTHER ATTENTION, NEEDS CHECKUP EVERY (time), CLOSED).<br /><br />
 
 <br /><br />
 
