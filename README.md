@@ -13,11 +13,11 @@ Assist. Lec. Shimaa Hagras<br />
 ## Intro: <br />
 We all have volunteered someday. As volunteers, we saw that the regular systematic management system of charities devours a lot of time and effort. As a Software Engineering student, we tried to analyze charities' management systems. In the future, we plan to make a fully automated system. We Know that a charity is a gigantic system that has a lot of departments, operations, and people. All these components interact with each other in a very complicated way. So, we made a lot of constraints and tried to minimize the system to its core working blocks as this is V1.0 of this analysis. We also plan to extend this analysis when our experience gets more powerful.
 
-<br /><br />
+<br /><br /><br />
 
 ## Description:<br />
 A system that handles the operations inside a charity, going from the management head to the employees, and handling the donations and volunteering process to benefit the cases it observes and/or explores. It handles (the finances between the management and employees), (logistics requesting funds), and (logistics exploring to find new rightful cases to help). It also handles the status of the cases that have already been helped to make sure that these cases get the attention they need.
-<br /><br />
+<br /><br /><br />
 
 ## User documentation:
 I. End-users:<br />
@@ -37,7 +37,7 @@ for a monthly donation.<br />
 or a whole village.<br />
 • Logistics: almost anything management do.<br />
 • Finance: in charge of handling all resources.<br />
-
+<br /><br />
 ## Our Analysis Constrains:
 AS we previously mentioned, we have made a lot of constrains,
 ignored a lot of department and operations, and merged a lot of roles and
@@ -92,6 +92,7 @@ process, coming back with a status of the case after helping, let that be
 
 ## Sequence Diagram:<br />
 <br />
+![alt text](Charity_sys_sequence_digram.svg "Activity Digram Text 1")
 <br /><br /><br />
 
 ## Risk Analysis:<br />
@@ -116,7 +117,7 @@ Risks:
 <br /><br /><br />
 
 
-## Contributors: <br /><br />
+## Contributors: <br />
 Ahmed Yasser Fathi Othman<br />
 Moaz Mohammed Samy <br />
 <br /><br /><br /><br /><br /><br />
