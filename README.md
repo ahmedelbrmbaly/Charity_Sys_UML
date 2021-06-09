@@ -14,7 +14,7 @@ We all have volunteered someday. As volunteers, we saw that the regular systemat
 
 <br /><br />
 
-##Description:<br />
+## Description:<br />
 A system that handles the operations inside a charity, going from the management head to the employees, and handling the donations and volunteering process to benefit the cases it observes and/or explores. It handles (the finances between the management and employees), (logistics requesting funds), and (logistics exploring to find new rightful cases to help). It also handles the status of the cases that have already been helped to make sure that these cases get the attention they need.
 <br /><br />
 
