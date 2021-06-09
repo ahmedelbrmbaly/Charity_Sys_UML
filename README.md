@@ -92,7 +92,7 @@ process, coming back with a status of the case after helping, let that be
 
 ## Sequence Diagram:<br />
 <br />
-![alt text](Charity_sys_sequence_digram.svg "Activity Digram Text 1")
+![alt text](Charity_Sys_Sequence_digram.svg "Activity Digram Text 1")
 <br /><br /><br />
 
 ## Risk Analysis:<br />
