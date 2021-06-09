@@ -2,7 +2,9 @@
 <img src="FElogo.jpeg" width="100">
 <img src="deplogo.jpg" width="100">
 
-
+# Software Engineering
+Prof. Amr Thabet
+Assist. Lec. Shimaa Hagras
 
 # Charity System Analysis <br />
 
