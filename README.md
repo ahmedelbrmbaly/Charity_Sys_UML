@@ -3,8 +3,8 @@
 <img src="deplogo.jpg" width="100">
 
 # Software Engineering
-Prof. Amr Thabet
-Assist. Lec. Shimaa Hagras
+Prof. Amr Thabet<br />
+Assist. Lec. Shimaa Hagras<br />
 
 # Charity System Analysis <br />
 
