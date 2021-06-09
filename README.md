@@ -74,16 +74,50 @@ process, coming back with a status of the case after helping, let that be
 
 <br /><br />
 
+## Class Diagram:<br />
+
+
 ![alt text](Charity_sys_class_digram.svg  "Class Digram Text 1" )
 
 <br /><br /><br />
 
+
+## Use Case Diagram:<br />
 ![alt text](Charity_sys_Use_Case_digram.svg "Case Digram Text 1")
 <br /><br /><br />
 
+## Activity Diagram:<br />
 ![alt text](Charity_sys_activity_digram.svg "Activity Digram Text 1")
 <br /><br /><br />
 
-![alt text](Charity_Sys_Sequence_digram.svg "Sequence digram Text 1")
+## Sequence Diagram:<br />
+<br />
+<br /><br /><br />
 
+## Risk Analysis:<br />
+<br />
+Types of predicted Risks:<br />
+1.	Strategic.<br />
+2.	Operational.<br />
+3.	Hazard.<br />
+4.	Financial.<br />
+5.	Technical.<br /><br />
+Available Solutions:<br />
+1.	Avoid: eliminate cause of risk.<br />
+2.	Mitigate: reduce probability or impact of risk.<br />
+3.	Accept: continency plans for risk.<br />
+4.	Transfer: have third party take on responsibility for risk.<br /><br />
+
+Risks:
+
+![alt text](risks.png "Activity Digram Text 1")
+
+
+<br /><br /><br />
+
+
+## Contributors: <br /><br />
+Ahmed Yasser Fathi Othman<br />
+Moaz Mohammed Samy <br />
+<br /><br /><br /><br /><br /><br />
 
