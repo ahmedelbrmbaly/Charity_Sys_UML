@@ -23,7 +23,7 @@ A system that handles the operations inside a charity, going from the management
 I. End-users:<br />
 a. Volunteers<br />
 b. Donors<br />
-c. Cases<br />
+c. Cases<br /><br />
 II. Admin users:<br />
 a. Management<br />
 <br /><br />
